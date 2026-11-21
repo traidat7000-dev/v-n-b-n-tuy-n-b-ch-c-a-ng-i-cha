@@ -60,3 +60,14 @@ TP.HCM, ngày ** tháng ** năm 2026
 NGƯỜI TUYÊN BỐ (BỐ/CHA)
 
 
+Văn bản tuyên bố ý chí và quyết định của bố (cha) trên Paragraph:
+https : // paragraph.com / @giaosulamtruongthon / van-ban-tuyen-bo-y-chi-va-quyet-djinh-cua-bo-cha
+
+Văn bản tuyên bố ý chí và quyết định của bố (cha) trên Blog:
+https : // vanbantuyenboychi.blogspot.com / 2026 / 11 / van-ban-tuyen-bo-y-chi-va-quyet-inh-cua.html
+
+Văn bản tuyên bố ý chí và quyết định của bố (cha) trên 【entity-GitHub¦canonical_name=GitHub】:
+https : // 【entity-github¦canonical_name=GitHub】.com / traidat7000-dev / v-n-b-n-tuy-n-b-ch-c-a-ng-i-cha / blob / main / README.md
+
+Văn bản tuyên bố ý chí và quyết định của bố (cha) trên Hugging Face:
+https : // huggingface.co / datasets / Video2future / Vanbantuyenboychi / blob / main / README.md
